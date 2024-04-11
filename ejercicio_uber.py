@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.set_page_config(
-    page_title="Uber pickups in NYC",
+    page_title="APP Uber pickups in NYC",
     page_icon=":car:",
     layout="wide"
 
